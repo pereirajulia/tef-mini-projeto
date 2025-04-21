@@ -26,3 +26,18 @@ O script automatiza a classificação espectral de estrelas por meio da análise
 📊 Resultados são apresentados em tabelas no terminal, com um gráfico salvo como `spectrum.png` e um relatório em `relatorio.txt`.
 
 ---
+## 🛠️ Pré-requisitos
+
+- Python **3.8+**  
+- Internet (para download via SDSS)  
+- Arquivos FITS (opcional, para uso local)
+
+---
+
+## ⚙️ Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/<SEU_USUARIO>/StellarSpectrumClassifier.git
+cd StellarSpectrumClassifier
