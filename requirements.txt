@@ -1,0 +1,1 @@
+numpy astropy matplotlib scipy scikit-learn rich pyyaml
