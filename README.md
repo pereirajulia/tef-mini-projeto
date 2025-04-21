@@ -41,3 +41,6 @@ Clone o repositório:
 ```bash
 git clone https://github.com/<SEU_USUARIO>/StellarSpectrumClassifier.git
 cd StellarSpectrumClassifier
+
+---
+Crie um ambiente virtual
