@@ -36,11 +36,14 @@ O script automatiza a classificação espectral de estrelas por meio da análise
 
 ## ⚙️ Instalação
 
-Clone o repositório:
+1. Clone o repositório:
+- https://github.com/<seu_usuario>/tef-mini-projeto.git
+- cd tef-mini-projeto
+2. Crie um ambiente virtual:
+- python -m venv venv
+- source venv/bin/activate        
+- venv\Scripts\activate 
+3. Instale as dependências:
+pip install -r requirements.txt
 
-```bash
-git clone https://github.com/<SEU_USUARIO>/StellarSpectrumClassifier.git
-cd StellarSpectrumClassifier
 
----
-Crie um ambiente virtual
