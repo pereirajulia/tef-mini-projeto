@@ -44,6 +44,18 @@ O script automatiza a classificação espectral de estrelas por meio da análise
 - source venv/bin/activate        
 - venv\Scripts\activate 
 3. Instale as dependências:
-pip install -r requirements.txt
+-pip install -r requirements.txt
+
+---
+##🚀 Uso
+###🔧 Preparação (para arquivos FITS locais)
+🔍 FITS Locais: devem estar em data/input/, e o nome informado deve ser sem extensão.
+1. Coloque os arquivos em data/input/
+- Extensões permitidas: .fits, .fit, .fts, .FITS
+2. ▶️ Executar o programa:
+python -m src.main ou python src/main.py
+
+
+
 
 
