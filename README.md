@@ -47,8 +47,9 @@ O script automatiza a classificação espectral de estrelas por meio da análise
 -pip install -r requirements.txt
 
 ---
-##🚀 Uso
-###🔧 Preparação (para arquivos FITS locais)
+
+## 🚀 Uso
+### 🔧 Preparação (para arquivos FITS locais)
 🔍 FITS Locais: devem estar em data/input/, e o nome informado deve ser sem extensão.
 1. Coloque os arquivos em data/input/
 - Extensões permitidas: .fits, .fit, .fts, .FITS
